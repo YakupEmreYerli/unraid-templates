@@ -1,0 +1,10 @@
+<CommunityApplications>
+  <Profile>
+Templates for self-hosted apps made by Yakup Emre Yerli.
+
+**Coinio** is a subscription and bill tracker: what is due this week, what is left this month and what the year costs, with reminders and a built-in MCP server for AI assistants.
+
+Support: open an issue in the app's own GitHub repository (linked from each template).
+  </Profile>
+  <WebPage>https://github.com/YakupEmreYerli/unraid-templates</WebPage>
+</CommunityApplications>
