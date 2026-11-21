@@ -1,5 +1,7 @@
 # unraid-templates
 
+[![Coinio: every subscription, one calm page](https://raw.githubusercontent.com/YakupEmreYerli/Coinio/main/docs/banner.en.png)](https://getcoinio.me)
+
 Unraid Community Applications templates for self-hosted apps by Yakup Emre Yerli.
 
 | App | Template | Project |
